@@ -1,6 +1,6 @@
 # Laravel Torchlight Extension for Commonmark
 
-[![Tests](https://github.com/torchlight-api/torchlight-commonmark-php/actions/workflows/tests.yml/badge.svg)](https://github.com/torchlight-api/torchlight-commonmark-php/actions/workflows/tests.yml) [![Latest Stable Version](https://poser.pugx.org/torchlight/torchlight-commonmark/v)](//packagist.org/packages/torchlight/torchlight-commonmark) [![Total Downloads](https://poser.pugx.org/torchlight/torchlight-commonmark/downloads)](//packagist.org/packages/torchlight/torchlight-commonmark) [![License](https://poser.pugx.org/torchlight/torchlight-commonmark/license)](//packagist.org/packages/torchlight/torchlight-commonmark)
+[![Tests](https://github.com/ousid/torchlight-commonmark-php/actions/workflows/tests.yml/badge.svg)](https://github.com/ousid/torchlight-commonmark-php/actions/workflows/tests.yml) [![Latest Stable Version](https://poser.pugx.org/ousid/torchlight-commonmark/v)](//packagist.org/packages/ousid/torchlight-commonmark) [![Total Downloads](https://poser.pugx.org/ousid/torchlight-commonmark/downloads)](//packagist.org/packages/ousid/torchlight-commonmark) [![License](https://poser.pugx.org/ousid/torchlight-commonmark/license)](//packagist.org/packages/ousid/torchlight-commonmark)
 
 > 📚 The full docs can be found at [torchlight.dev/docs/clients/commonmark-php](https://torchlight.dev/docs/clients/commonmark-php).
 
@@ -15,7 +15,7 @@ Torchlight is a VS Code-compatible syntax highlighter that requires no JavaScrip
 To install, require the package from composer:
 
 ```shell
-composer require torchlight/torchlight-commonmark
+composer require ousid/torchlight-commonmark
 ```
 
 This will install the [Laravel Client](https://github.com/torchlight-api/torchlight-laravel) as well.
